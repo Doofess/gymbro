@@ -145,7 +145,7 @@ GymBro is a working name. It is built for a first pilot at one gym branch in Isr
 
 ## How it was built
 
-Built with AI coding agents (Claude Code).
+Built with AI coding agents.
 
 ## Source
 
